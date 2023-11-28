@@ -1,0 +1,26 @@
+.logo{
+    width: 100px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+    color: azure;
+
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-items: center;
+    gap: 30px;
+}
+
+.ppal{
+    background-color: #678ef0;
+    font-family: sans-serif;
+    color: white;
+}
