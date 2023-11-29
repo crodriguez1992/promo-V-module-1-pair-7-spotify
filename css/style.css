@@ -23,4 +23,22 @@ ul{
     background-color: #678ef0;
     font-family: sans-serif;
     color: white;
+    background-image: url("../images/premium_dancer.png");
+    height: 80vh;
+    background-position: right;
+    background-repeat: no-repeat;
+    display: flex;
+    align-content: space-around;
+
+}
+
+.texto {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.texto h1  {
+    font-size: 100px;
 }
