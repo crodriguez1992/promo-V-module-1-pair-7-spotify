@@ -1,3 +1,7 @@
+:root{
+   
+}
+
 .logo{
     width: 100px;
 }
@@ -41,4 +45,15 @@ ul{
 
 .texto h1  {
     font-size: 100px;
+}
+
+.ppal .button a {
+    background-color: #2dad65;
+    display: inline-block;
+    padding: 10px 50px;
+    margin-left: 20px;
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    font-size: x-small;
 }
